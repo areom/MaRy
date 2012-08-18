@@ -49,7 +49,7 @@ Copyright (c) 2012 LiWY
 <areosome@gmail.com>
 All rights reserved.
 
-Based on Markdown
+Based on Markdown   
 Copyright (c) 2003-2004 John Gruber   
 <http://daringfireball.net/>   
 All rights reserved.
