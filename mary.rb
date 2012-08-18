@@ -13,7 +13,7 @@
 # <http://daringfireball.net/projects/markdown/>
 #
 #
-# version 
+# version 0.1
 
 require 'digest/md5'
 require 'strscan'
